@@ -188,7 +188,6 @@ export default function Bookings() {
                     </div>
                   </div>
 
-                  {/* BEKOR QILISH TUGMASI */}
                   <button
                     onClick={() => cancelBooking(booking.id)}
                     style={{
